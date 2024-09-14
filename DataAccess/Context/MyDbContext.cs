@@ -1,7 +1,7 @@
 ﻿using ExpenseCase.DataAccess.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace ExpenseCase.Context;
+namespace ExpenseCase.DataAccess.Context;
 
 public partial class MyDbContext : DbContext
 {

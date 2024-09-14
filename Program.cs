@@ -1,7 +1,7 @@
 using System.Text.Json.Serialization;
 using AutoMapper.EquivalencyExpression;
-using ExpenseCase.Context;
 using ExpenseCase.DataAccess;
+using ExpenseCase.DataAccess.Context;
 using ExpenseCase.DataAccess.Interfaces;
 using ExpenseCase.DataAccess.Repositories;
 using ExpenseCase.DataAccess.Repositories.Interfaces;

@@ -1,5 +1,4 @@
-﻿
-using ExpenseCase.Context;
+﻿using ExpenseCase.DataAccess.Context;
 using ExpenseCase.DataAccess.Interfaces;
 using ExpenseCase.DataAccess.Repositories;
 namespace ExpenseCase.DataAccess;

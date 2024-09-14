@@ -1,5 +1,5 @@
 ﻿using System.Linq.Expressions;
-using ExpenseCase.Context;
+using ExpenseCase.DataAccess.Context;
 using Microsoft.EntityFrameworkCore;
 using ExpenseCase.DataAccess.Repositories.Interfaces;
 
